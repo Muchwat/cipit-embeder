@@ -8,7 +8,7 @@ This allows you to easily embed videos from popular services like **YouTube**, *
 
 ### Manual Installation (via ZIP)
 
-1. Download the latest release as a ZIP file from the [GitHub Repository](https://github.com/Muchwat/cipit-embeder).
+1. Download the latest release as a ZIP file
 2. In your WordPress Dashboard, navigate to **Plugins** > **Add New** > **Upload Plugin**.
 3. Choose the downloaded ZIP file and click **Install Now**.
 4. Click **Activate Plugin**.
